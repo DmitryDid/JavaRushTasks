@@ -11,25 +11,30 @@ public class Solution {
 
     public static String method1() {
         method2();
-        //напишите тут ваш код
+        return Thread.currentThread().getStackTrace()[2].getMethodName();//напишите тут ваш код
     }
 
     public static String method2() {
         method3();
-        //напишите тут ваш код
+        return Thread.currentThread().getStackTrace()[2].getMethodName();//напишите тут ваш код
     }
 
     public static String method3() {
         method4();
-        //напишите тут ваш код
+        return Thread.currentThread().getStackTrace()[2].getMethodName();//напишите тут ваш код
     }
 
     public static String method4() {
         method5();
-        //напишите тут ваш код
+        return Thread.currentThread().getStackTrace()[2].getMethodName();//напишите тут ваш код
     }
 
     public static String method5() {
-        //напишите тут ваш код
+//        StackTraceElement[] st = Thread.currentThread().getStackTrace();
+//        for (StackTraceElement s: st) {
+//            System.out.println(s.getMethodName());
+//        }
+        return Thread.currentThread().getStackTrace()[2].getMethodName();//напишите тут ваш код
     }
+
 }
