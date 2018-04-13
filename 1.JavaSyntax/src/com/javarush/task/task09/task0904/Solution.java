@@ -7,6 +7,9 @@ package com.javarush.task.task09.task0904;
 public class Solution {
     public static void main(String[] args) throws Exception {
         int stackTraceLength = method1().length - method10().length + 1;
+        for (StackTraceElement st:method10()) {
+            System.out.println(st.getMethodName());
+        }
     }
 
     public static StackTraceElement[] method1() {
@@ -14,31 +17,31 @@ public class Solution {
     }
 
     public static StackTraceElement[] method2() {
-        //напишите тут ваш код
+        return method3();//напишите тут ваш код
     }
 
     public static StackTraceElement[] method3() {
-        //напишите тут ваш код
+        return method4();//напишите тут ваш код
     }
 
     public static StackTraceElement[] method4() {
-        //напишите тут ваш код
+        return method5();//напишите тут ваш код
     }
 
     public static StackTraceElement[] method5() {
-        //напишите тут ваш код
+        return method6();//напишите тут ваш код
     }
 
     public static StackTraceElement[] method6() {
-        //напишите тут ваш код
+        return method7();//напишите тут ваш код
     }
 
     public static StackTraceElement[] method7() {
-        //напишите тут ваш код
+        return method8();//напишите тут ваш код
     }
 
     public static StackTraceElement[] method8() {
-        //напишите тут ваш код
+        return method9();//напишите тут ваш код
     }
 
     public static StackTraceElement[] method9() {
