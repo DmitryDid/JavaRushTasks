@@ -7,7 +7,7 @@ package com.javarush.task.task09.task0904;
 public class Solution {
     public static void main(String[] args) throws Exception {
         int stackTraceLength = method1().length - method10().length + 1;
-        for (StackTraceElement st:method10()) {
+        for (StackTraceElement st : method10()) {
             System.out.println(st.getMethodName());
         }
     }
