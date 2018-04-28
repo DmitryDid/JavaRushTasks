@@ -2506,3 +2506,5 @@ java.lang.Throwable: Stub index points to a file without PSI: com.intellij.opena
 2018-04-28 14:14:28 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
 2018-04-28 14:15:28 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
 2018-04-28 14:16:28 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-04-28 14:17:08 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-04-28 14:17:09 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
