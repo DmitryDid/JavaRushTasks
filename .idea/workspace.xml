@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1004/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1004/Условие.jrtc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0930/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0930/Условие.jrtc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1001/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1001/Условие.jrtc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1004/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1004/Условие.jrtc" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" />
       <change beforePath="$PROJECT_DIR$/out.log" afterPath="$PROJECT_DIR$/out.log" />
-      <change beforePath="$PROJECT_DIR$/out.log.1" afterPath="$PROJECT_DIR$/out.log.1" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0929/Solution.class" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0929/Solution.class" />
     </list>
     <ignored path="JavaRushTasks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,13 +29,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1013/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="173">
+              <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <folding>
+                <element signature="method#Human#1;class#Human#0;class#Solution#0" expanded="false" />
+                <element signature="method#Human#2;class#Human#0;class#Solution#0" expanded="false" />
+                <element signature="method#Human#3;class#Human#0;class#Solution#0" expanded="false" />
+                <element signature="method#Human#4;class#Human#0;class#Solution#0" expanded="false" />
+                <element signature="method#Human#5;class#Human#0;class#Solution#0" expanded="false" />
+                <element signature="method#Human#6;class#Human#0;class#Solution#0" expanded="false" />
+                <element signature="method#Human#7;class#Human#0;class#Solution#0" expanded="false" />
+                <element signature="method#Human#8;class#Human#0;class#Solution#0" expanded="false" />
+                <element signature="method#Human#9;class#Human#0;class#Solution#0" expanded="false" />
+              </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Валидация" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
+          <provider selected="true" editor-type-id="EditorTypeId">
+            <state />
           </provider>
         </entry>
       </file>
@@ -150,7 +155,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="13" />
     <option name="width" value="1280" />
     <option name="height" value="738" />
@@ -895,8 +900,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -908,7 +912,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8723748" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18456884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1425,11 +1429,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
-      <provider selected="true" editor-type-id="EditorTypeId">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1012/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -1445,10 +1444,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1013/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="173">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="method#Human#1;class#Human#0;class#Solution#0" expanded="false" />
+            <element signature="method#Human#2;class#Human#0;class#Solution#0" expanded="false" />
+            <element signature="method#Human#3;class#Human#0;class#Solution#0" expanded="false" />
+            <element signature="method#Human#4;class#Human#0;class#Solution#0" expanded="false" />
+            <element signature="method#Human#5;class#Human#0;class#Solution#0" expanded="false" />
+            <element signature="method#Human#6;class#Human#0;class#Solution#0" expanded="false" />
+            <element signature="method#Human#7;class#Human#0;class#Solution#0" expanded="false" />
+            <element signature="method#Human#8;class#Human#0;class#Solution#0" expanded="false" />
+            <element signature="method#Human#9;class#Human#0;class#Solution#0" expanded="false" />
+          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
+      <provider selected="true" editor-type-id="EditorTypeId">
+        <state />
       </provider>
     </entry>
   </component>
