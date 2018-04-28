@@ -3,6 +3,8 @@ package com.javarush.task.task09.task0930;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 
 /* 
 Задача по алгоритмам
@@ -27,7 +29,32 @@ public class Solution {
     }
 
     public static void sort(String[] array) {
-        //напишите тут ваш код
+        ArrayList<String> words = new ArrayList<>();
+        ArrayList<Integer> numbers = new ArrayList<>();
+
+        // разделил на два массива разных типов
+        for (int i = 0; i < array.length; i++) {
+            if (isNumber(array[i])) numbers.add(Integer.valueOf(array[i]));
+            else words.add(array[i]);
+        }
+        //сортировка массива слов
+        for (int i = 1; i < words.size(); i++) {
+            if (isGreaterThan(words.get(i - 1), words.get(i))) {
+                String temp = words.get(i - 1);
+                words.set(i - 1, words.get(i));
+                words.set(i, temp);
+                i = 0;
+            }
+        }
+
+        Collections.sort(numbers);
+        //сортировка массива чисел
+        for (int i = 0; i < array.length; i++) {
+            if (isNumber(array[i]))
+                array[i] = String.valueOf(numbers.remove(numbers.size()-1));
+            else
+                array[i] = words.remove(0);
+        }//напишите тут ваш код
     }
 
     // Метод для сравнения строк: 'а' больше чем 'b'
