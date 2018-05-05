@@ -22,11 +22,11 @@ public class Solution {
             this.speed = speed;
         }
 
-        public String getName() {
+        private String getName() {
             return name;
         }
 
-        public int getSpeed() {
+        private int getSpeed() {
             return speed;
         }
 
@@ -44,11 +44,11 @@ public class Solution {
             this.speed = speed;
         }
 
-        public String getName() {
+        private String getName() {
             return name;
         }
 
-        public int getSpeed() {
+        private int getSpeed() {
             return speed;
         }
 
