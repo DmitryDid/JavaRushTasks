@@ -2250,3 +2250,540 @@ java.lang.Throwable: Stub index points to a file without PSI: com.intellij.opena
 2018-05-06 00:31:56 INFO  ApacheHttpClient.testConnection(195) - result = true
 2018-05-06 00:31:56 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
 2018-05-06 00:32:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:33:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:34:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:35:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:36:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:37:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:38:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:39:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:40:14 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:40:14 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-06 00:40:16 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-06 00:40:18 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-06 00:40:18 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-06 00:40:18 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-06 00:40:18 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-06 00:40:18 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:40:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:41:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:42:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:42:47 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:42:48 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-06 00:42:48 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:42:49 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-06 00:43:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:44:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:44:54 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:44:54 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-06 00:44:55 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:44:56 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-06 00:44:56 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-06 00:44:58 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:44:58 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-06 00:44:59 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-06 00:45:00 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-06 00:45:00 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-06 00:45:00 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-06 00:45:00 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-06 00:45:00 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:45:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:46:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:46:57 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:46:57 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-06 00:46:58 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-06 00:46:58 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-06 00:46:58 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:47:00 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:47:00 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-06 00:47:05 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-06 00:47:05 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-06 00:47:05 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-06 00:47:05 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-06 00:47:05 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-06 00:47:06 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:47:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:48:04 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:48:04 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-06 00:48:05 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-06 00:48:07 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-06 00:48:07 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-06 00:48:08 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-06 00:48:08 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-06 00:48:08 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:48:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:49:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:49:41 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:49:42 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-06 00:49:42 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:49:43 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-06 00:50:23 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:33 ERROR FileManagerImpl.error(130) - Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+java.lang.Throwable: Invalid file: file://C:/Cloud Mail.Ru/IT/Java/2018/project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task12/task1220/HumanImpl.java
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:136)
+	at com.intellij.psi.impl.file.impl.FileManagerImpl.findFile(FileManagerImpl.java:348)
+	at com.intellij.psi.impl.PsiManagerImpl.findFile(PsiManagerImpl.java:187)
+	at org.intellij.sonar.DocumentChangeListener.updateHighlightingFor(DocumentChangeListener.java:74)
+	at org.intellij.sonar.DocumentChangeListener.lambda$updateIssuesPositions$0(DocumentChangeListener.java:66)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:315)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:366)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.5  Build #IC-173.4674.33
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(148) - OS: Windows 7
+2018-05-06 00:50:33 ERROR FileManagerImpl.logErrorHeader(154) - Last Action: $Undo
+2018-05-06 00:50:37 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:50:37 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-06 00:50:38 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:50:39 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-06 00:50:39 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-06 00:50:43 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-06 00:50:43 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
