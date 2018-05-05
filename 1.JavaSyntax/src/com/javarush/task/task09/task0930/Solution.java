@@ -47,14 +47,16 @@ public class Solution {
             }
         }
 
-        Collections.sort(numbers);
         //сортировка массива чисел
+        Collections.sort(numbers);
+
+        //Собираю готовые данные в результирующий массив
         for (int i = 0; i < array.length; i++) {
             if (isNumber(array[i]))
-                array[i] = String.valueOf(numbers.remove(numbers.size()-1));
+                array[i] = String.valueOf(numbers.remove(numbers.size() - 1));
             else
                 array[i] = words.remove(0);
-        }//напишите тут ваш код
+        }
     }
 
     // Метод для сравнения строк: 'а' больше чем 'b'
