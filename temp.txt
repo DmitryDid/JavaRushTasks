@@ -1,0 +1,26 @@
+
+public class Solution {
+    public static void main(String[] args) throws IOException {
+        FileInputStream fis = new FileInputStream("C:\\Cloud Mail.Ru\\IT\\Java\\2018\\project\\JavaRushTasks\\dataIn.txt");
+//        FileInputStream fis = new FileInputStream(new Scanner(System.in).nextLine());
+        ArrayList<Integer> list = new ArrayList<>();
+        String s = "";
+
+        while (fis.available() > 0) {
+            s += String.valueOf((char) fis.read());
+        }
+
+        String[] array = s.split("\n");
+
+        for (int i = 0; i < array.length; i++) {
+                list.add(Integer.parseInt(array[i].trim()));
+        }
+
+        Collections.sort(list);
+
+        for (Integer i : list)
+            if (i % 2 == 0) System.out.println(i);
+
+        fis.close();
+    }
+}
