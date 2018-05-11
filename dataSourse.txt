@@ -13,7 +13,7 @@
  Выбираем в подкаталоге hibernate4 файл pom.xml. При импорте указываем «Import Maven projects automatically»
   и завершаем создание проекта оставляя остальные настройки без изменений.
 
-  C:\Cloud Mail.Ru\IT\Java\2018\project\JavaRushTasks\dataIn.txt
+C:\Cloud Mail.Ru\IT\Java\2018\project\JavaRushTasks\dataIn.txt
 
-  C:\Cloud Mail.Ru\IT\Java\2018\project\JavaRushTasks\dataOut.txt
+C:\Cloud Mail.Ru\IT\Java\2018\project\JavaRushTasks\dataOut.txt
 
