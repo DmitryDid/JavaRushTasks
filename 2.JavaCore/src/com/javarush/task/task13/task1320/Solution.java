@@ -21,12 +21,12 @@ public class Solution {
         long id;
         String name;
 
-        @Override
+
         public String toString() {
             return String.format("User has name %s, id = %d", name, id);
         }
 
-        @Override
+
         public User initializeIdAndName(long id, String name) {
             this.id = id;
             this.name = name;

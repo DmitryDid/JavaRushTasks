@@ -18,12 +18,12 @@ public class Solution {
 
     class Screen implements Updatable{
 
-        @Override
+
         public void onSelect() {
 
         }
 
-        @Override
+
         public void refresh() {
 
         }

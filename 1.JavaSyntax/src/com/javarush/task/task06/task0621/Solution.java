@@ -55,7 +55,7 @@ public class Solution {
             this.father = father;
         }
 
-        @Override
+
         public String toString() {
             if ((mother == null)&&(father == null)){
                 return "Cat name is " + name + ", no mother, no father";

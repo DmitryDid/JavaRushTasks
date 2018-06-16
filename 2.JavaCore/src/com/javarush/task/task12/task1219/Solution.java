@@ -24,12 +24,12 @@ public class Solution {
 
     public class Human implements Swim, Run{
 
-        @Override
+
         public void run() {
 
         }
 
-        @Override
+
         public void swim() {
 
         }
@@ -37,17 +37,17 @@ public class Solution {
 
     public class Duck implements Swim, Run, Fly{
 
-        @Override
+
         public void fly() {
 
         }
 
-        @Override
+
         public void run() {
 
         }
 
-        @Override
+
         public void swim() {
 
         }
@@ -55,12 +55,12 @@ public class Solution {
 
     public class Penguin implements Swim, Run{
 
-        @Override
+
         public void run() {
 
         }
 
-        @Override
+
         public void swim() {
 
         }
@@ -68,12 +68,12 @@ public class Solution {
 
     public class Airplane implements Run, Fly{
 
-        @Override
+
         public void fly() {
 
         }
 
-        @Override
+
         public void run() {
 
         }

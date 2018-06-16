@@ -23,19 +23,19 @@ public class Solution {
     }
 
     public class Cat implements Climb, Run {
-        @Override
+
         public void climb() {
 
         }
 
-        @Override
+
         public void run() {
 
         }
     }
 
     public class Dog implements Run {
-        @Override
+
         public void run() {
 
         }
@@ -45,12 +45,12 @@ public class Solution {
     }
 
     public class Duck implements Fly, Run {
-        @Override
+
         public void fly() {
 
         }
 
-        @Override
+
         public void run() {
 
         }

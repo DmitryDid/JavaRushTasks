@@ -20,12 +20,12 @@ public class Solution {
             this.type = type;
         }
 
-        @Override
+
         public String toString() {
             return String.format("%s for today", this.getWeatherType());
         }
 
-        @Override
+
         public String getWeatherType() {
             return type;
         }

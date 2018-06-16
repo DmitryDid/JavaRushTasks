@@ -16,24 +16,24 @@ public class Solution {
     }
 
     public static class Cat extends Pet{
-        @Override
+
         public String getName() {
             return "Cat";
         }
 
-        @Override
+
         public Cat getChild() {
             return new Cat();
         }
     }
 
     public static class Dog extends Pet{
-        @Override
+
         public String getName() {
             return "Dog";
         }
 
-        @Override
+
         public Pet getChild() {
             return new Dog();
         }

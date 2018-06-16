@@ -7,7 +7,7 @@ public class Robot extends AbstractRobot {
         this.name = name;
     }
 
-    @Override
+
     public String getName() {
         return name;
     }

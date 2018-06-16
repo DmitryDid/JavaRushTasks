@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader fileReader = new BufferedReader(new InputStreamReader(new FileInputStream(new File(new Scanner(System.in).nextLine()))));
-        ArrayList<Integer> list = new ArrayList<>();
+        ArrayList<Integer> list = new ArrayList<Integer>();
 
         while (fileReader.ready()) {
             list.add(Integer.parseInt(fileReader.readLine()));

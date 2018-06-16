@@ -23,23 +23,23 @@ public class Solution {
 
     public static class Beer implements Alcohol{
 
-        @Override
+
         public void askMore(String message) {
             System.out.println("More!");
         }
 
-        @Override
+
         public void sayThankYou() {
             System.out.println("Thank");
 
         }
 
-        @Override
+
         public boolean isReadyToGoHome() {
             return READY_TO_GO_HOME;
         }
 
-        @Override
+
         public void sleepOnTheFloor() {
             System.out.println("Am a sleep on the Floor.");
         }

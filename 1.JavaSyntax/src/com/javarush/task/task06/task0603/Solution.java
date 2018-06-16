@@ -14,7 +14,7 @@ public class Solution {
 }
 
 class Cat {
-    @Override
+
     protected void finalize() throws Throwable {
         super.finalize();
         System.out.println("Cat was destroyed");
@@ -22,7 +22,7 @@ class Cat {
 }
 
 class Dog {
-    @Override
+
     protected void finalize() throws Throwable {
         super.finalize();
         System.out.println("Dog was destroyed");

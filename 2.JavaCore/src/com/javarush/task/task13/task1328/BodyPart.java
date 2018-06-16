@@ -12,7 +12,7 @@ public final class BodyPart {
         this.bodyPart = bodyPart;
     }
 
-    @Override
+
     public String toString() {
         return this.bodyPart;
     }

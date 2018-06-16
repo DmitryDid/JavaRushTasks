@@ -14,7 +14,7 @@ public class Solution {
 
     class StringObject implements SimpleObject//допишите здесь ваш код
     {
-        @Override
+
         public SimpleObject<String> getInstance(){
             return this;
         }

@@ -49,7 +49,7 @@ public class Solution {
             this.tailLength = tailLength;
         }
 
-        @Override
+
         public String toString() {
             return "Cat name is " + name + ", age is " + age + ", weight is " + weight + ", tail = " + tailLength;
         }

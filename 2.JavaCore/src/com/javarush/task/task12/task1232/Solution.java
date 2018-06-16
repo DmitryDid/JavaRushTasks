@@ -20,7 +20,7 @@ public class Solution {
     }
 
     public static class Pegas extends Horse implements Fly{
-        @Override
+
         public void fly() {
 
         }

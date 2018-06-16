@@ -22,7 +22,7 @@ public class Solution {
     static class Hobbie implements Desire, Dream {
         static int INDEX = 1;
 
-        @Override
+
         public String toString() {
             INDEX++;
             return "" + INDEX;

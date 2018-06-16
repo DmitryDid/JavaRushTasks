@@ -35,7 +35,7 @@ public class Solution {
             this.name = name;
         }
 
-        @Override
+
         public String toString() {
             return name != null ? name.toUpperCase() : null;
         }

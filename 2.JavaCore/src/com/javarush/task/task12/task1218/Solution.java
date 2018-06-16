@@ -23,48 +23,48 @@ public class Solution {
 
     public class Dog implements Eat, Move {
 
-        @Override
+
         public void move() {
 
         }
 
-        @Override
+
         public void eat() {
 
         }
     }
 
     public class Duck implements Fly, Eat, Move {
-        @Override
+
         public void fly() {
 
         }
 
-        @Override
+
         public void move() {
 
         }
 
-        @Override
+
         public void eat() {
 
         }
     }
 
     public class Car implements Move {
-        @Override
+
         public void move() {
 
         }
     }
 
     public class Airplane implements Fly, Move {
-        @Override
+
         public void fly() {
 
         }
 
-        @Override
+
         public void move() {
 
         }

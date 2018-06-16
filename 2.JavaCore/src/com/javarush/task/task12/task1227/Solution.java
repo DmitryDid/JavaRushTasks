@@ -23,17 +23,17 @@ public class Solution {
 
     public class Duck implements Swim, Fly, Run {
 
-        @Override
+
         public void fly() {
 
         }
 
-        @Override
+
         public void swim() {
 
         }
 
-        @Override
+
         public void run() {
 
         }
@@ -41,12 +41,12 @@ public class Solution {
 
     public class Penguin implements Swim, Run {
 
-        @Override
+
         public void run() {
 
         }
 
-        @Override
+
         public void swim() {
 
         }
@@ -54,7 +54,7 @@ public class Solution {
 
     public class Toad implements Swim {
 
-        @Override
+
         public void swim() {
 
         }

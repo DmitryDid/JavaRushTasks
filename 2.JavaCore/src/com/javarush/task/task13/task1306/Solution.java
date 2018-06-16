@@ -23,7 +23,7 @@ public class Solution {
         long id;
         String name;
 
-        @Override
+
         public DBObject initializeIdAndName(long id, String name) {
             this.id = id;
             this.name = name;
@@ -31,7 +31,7 @@ public class Solution {
             return this;
         }
 
-        @Override
+
         public String toString() {
             return String.format("User has name %s, id = %d", name, id);
         }

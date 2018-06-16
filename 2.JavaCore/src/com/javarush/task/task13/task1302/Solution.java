@@ -15,7 +15,7 @@ public class Solution {
     }
 
     public static class AlcoholicBeer implements Drink{
-        @Override
+
         public String toString() {
             if (isAlcoholic()) {
                 return "Напиток алкогольный";
@@ -25,7 +25,7 @@ public class Solution {
 
         }
 
-        @Override
+
         public boolean isAlcoholic() {
             return true;
         }

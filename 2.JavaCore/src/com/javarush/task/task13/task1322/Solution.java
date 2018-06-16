@@ -15,7 +15,7 @@ public class Solution {
 
 
      static class StringObject<T> implements SimpleObject<String> {
-         @Override
+
          public SimpleObject<String> getInstance() {
              return this;
          }
