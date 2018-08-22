@@ -2,6 +2,6 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1318/Solution.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/dataOut.txt" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/dataOut.txt" charset="UTF-8" />
   </component>
 </project>
