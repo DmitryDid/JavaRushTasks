@@ -13,7 +13,7 @@
  Выбираем в подкаталоге hibernate4 файл pom.xml. При импорте указываем «Import Maven projects automatically»
   и завершаем создание проекта оставляя остальные настройки без изменений.
 
-C:\JavaRushTasks\dataIn.txt
+dataIn.txt
 
-C:\JavaRushTasks\dataOut.txt
+dataOut.txt
 
